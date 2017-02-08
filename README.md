@@ -22,7 +22,7 @@ pod "TempPod"
 
 ## Author
 
-aniketudeshmukh, aniket.deshmukh@capgemini.com
+aniketudeshmukh, aniketudeshmukh@gmail.com
 
 ## License
 

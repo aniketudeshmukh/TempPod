@@ -1,0 +1,22 @@
+{
+  "name": "TempPod",
+  "version": "0.1.0",
+  "summary": "A short description of TempPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/aniketudeshmukh/TempPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "aniketudeshmukh": "aniket.deshmukh@capgemini.com"
+  },
+  "source": {
+    "git": "https://github.com/aniketudeshmukh/TempPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TempPod/Classes/**/*"
+}

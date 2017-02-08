@@ -1,0 +1,16 @@
+PODS:
+  - TempPod (0.1.0)
+
+DEPENDENCIES:
+  - TempPod (from `../`)
+
+EXTERNAL SOURCES:
+  TempPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TempPod: c4d5f3c140c74f3736d8f9b037a0a70489d430a1
+
+PODFILE CHECKSUM: 67c5c6cc67905f1175c2c93e18ac8357d2127f53
+
+COCOAPODS: 1.2.0
