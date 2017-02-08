@@ -1,15 +1,15 @@
 {
   "name": "TempPod",
   "version": "0.1.0",
-  "summary": "A short description of TempPod.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "This is a Temp Pod for Personal Trial.",
+  "description": "This is a Temporary Pod for Personal Use. Do not use.",
   "homepage": "https://github.com/aniketudeshmukh/TempPod",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "aniketudeshmukh": "aniket.deshmukh@capgemini.com"
+    "aniketudeshmukh": "aniketudeshmukh@gmail.com"
   },
   "source": {
     "git": "https://github.com/aniketudeshmukh/TempPod.git",

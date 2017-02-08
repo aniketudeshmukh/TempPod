@@ -7,12 +7,16 @@
 //
 
 import UIKit
+import TempPod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        let str = TempPod.returnHi()
+        print(str)
     }
 
     override func didReceiveMemoryWarning() {
